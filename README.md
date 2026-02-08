@@ -1,5 +1,9 @@
 # 🌱 M³-BioSynergy: Microbial-Metabolic-Modular Theory
 
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/shimojok/M3-BioSynergy.svg?style=social)](https://github.com/shimojok/M3-BioSynergy/stargazers)
+
 **A Novel Framework for Soil Carbon Sequestration and Regenerative Agriculture**
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
