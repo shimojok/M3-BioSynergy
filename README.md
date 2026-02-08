@@ -129,7 +129,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Lead Scientist**: Kaz Shimojo - Bionexus Holdings
 - **Technical Inquiries**: GitHub Issues
-- **Partnerships**: partnerships@bionexus.io
+- **Partnerships**: info@terraviss.com
 
 ## 🌐 Other Language Versions
 
