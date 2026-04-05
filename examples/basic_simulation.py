@@ -20,6 +20,7 @@ import sys
 import numpy as np
 import matplotlib.pyplot as plt
 from pathlib import Path
+from typing import Dict
 
 # Add parent directory to path for imports
 sys.path.insert(0, str(Path(__file__).parent.parent))
@@ -531,4 +532,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
+
