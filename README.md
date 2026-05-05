@@ -1,5 +1,5 @@
- [!NOTE]
- **This repository has been archived.**
+> [!NOTE]
+> **This repository has been archived.**
  このリポジトリはアーカイブされました。最新の理論・モデル・ホワイトペーパーは以下の後継リポジトリを参照してください。
  
 🔬 [**M3-BioSynergy-Core**](https://github.com/shimojok/M3-BioSynergy-Core) — The Core Engine of the Planetary Metabolic Operating System
