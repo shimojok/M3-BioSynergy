@@ -139,10 +139,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Technical Inquiries**: GitHub Issues
 - **Partnerships**: info@terraviss.com
 
-## 🌐 Other Language Versions
-
-- **[日本語版 (Japanese Version)](https://github.com/shimojok/M3-BioSynergy-JP)** - For Japanese agricultural practitioners, researchers, and domestic partners. Includes J-Credit guidance and Japan-specific case studies.
-
 ---
 
 *"We don't inherit the earth from our ancestors; we borrow it from our children."*  
